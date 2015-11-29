@@ -4,9 +4,9 @@
 
 ## Weekends are back.
 
-This is an automated script to turn non-essential servers on-and-off during your business hours.
+This is an automated script to turn off non-essential servers during your weekends, another easy option is to add non-business hours.
 
-(weekends.py) [Enjoy the weeekend with py]
+[weekends.py](weeekends.py)
 
 Hand crafted in boto3.
 
