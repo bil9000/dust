@@ -6,7 +6,7 @@
 
 This is an automated script to turn non-essential servers on-and-off during your business hours.
 
-[weekends.py] (Enjoy the weeekend.py) 
+(weekends.py) [Enjoy the weeekend with py]
 
 Hand crafted in boto3.
 
