@@ -2,9 +2,11 @@
 
 ## the home of the random
 
-## (weekends.py)[Weekends] are back.
+## Weekends are back.
 
 This is an automated script to turn non-essential servers on-and-off during your business hours.
+
+[weekends.py] (Enjoy the weeekend.py) 
 
 Hand crafted in boto3.
 
