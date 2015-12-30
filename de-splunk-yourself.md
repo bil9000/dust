@@ -15,7 +15,7 @@ then create a bucket.
 
 	aws s3 sync /var/log/apache2/ s3://YOURBUCKETNAMEHERE
 
-Ok, so that's all good, then we write a script to do the sync for the logs. (logUpload.sh)[logUpload.sh] The script is basically the following.
+Ok, so that's all good, then we write a script to do the sync for the logs. [logUpload.sh](logUpload.sh) The script is basically the following.
 
 	#!/bin/bash
 	aws s3 sync /var/log/apache2/ s3://YOURBUCKETNAMEHERE

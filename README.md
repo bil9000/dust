@@ -12,8 +12,8 @@ Hand crafted in boto3.
 
 
 
-###[de-splunk-yourself.md]
+###[(de-splunk-yourself.md)]
 
     hey hey hey.
 
-(Check it. It's fresh, no splunk on it.)[de-splunk-yourself.md]
+[Check it. It's fresh, no splunk on it.](de-splunk-yourself.md)
