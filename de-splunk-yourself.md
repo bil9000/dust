@@ -1,4 +1,4 @@
-# de-splunk yourself
+# de-splunk yourself!
 
     hey hey hey.
 
@@ -31,5 +31,5 @@ In this file you need to put the times you want it to sync and n.b. you need to 
 
 That will sync the files every three hours to the bucket your made in the bucket s3://YOURBUCKETNAMEHERE
 
-Now relax, knowing that your logs are shipped into s3 forever and ever amen.
+Now relax, knowing that your logs are shipped into s3 forever and ever amen.   Next steps, or as my dissertation coach would have said, "Now William, this is an area for further research."  Pulling that garbage into a trash compactor and making pretty D3 graphs.
 	

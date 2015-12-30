@@ -12,7 +12,8 @@ Hand crafted in boto3.
 
 
 
-###[de-splunk-yourself.md](de-splunk yourself!)
+###[de-splunk yourself!](de-splunk-yourself.md)
+
 
     hey hey hey.
 
