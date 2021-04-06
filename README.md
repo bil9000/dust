@@ -12,9 +12,8 @@ Hand crafted in boto3.
 
 
 
-###[de-splunk yourself!](de-splunk-yourself.md)
-
+### [de-splunk yourself!](de-splunk-yourself.md)
 
     hey hey hey.
 
-[Check it. It's fresh, no splunk on it.](de-splunk-yourself.md)
+I feel like most of the things I put in GitHub are mostly gists.
